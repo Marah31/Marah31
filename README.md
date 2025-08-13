@@ -15,20 +15,20 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
 ## 📂 Featured Projects
-
-### 📡 Wireless Project  
-*Wireless communication calculator — plan networks like a pro.*  
-[🔗 Repository](#)
-
-### 👾 Monsters Rolodex  
-*React app showing monster cards with search functionality. No monsters were harmed!*  
-[🔗 Repository](#)
 
 ### 🛍 Store Website  
 *E-commerce-style website inspired by Shein — minus the impulse buying guilt.*  
-[🔗 Repository](#)
+[🔗 Repository](https://github.com/Marah31/PradaClothingWebsite)
+
+### 👾 Monsters Rolodex  
+*React app showing monster cards with search functionality. No monsters were harmed!*  
+[🔗 Repository](https://github.com/Marah31/MonstersRolodex)
+
+### 📡 Wireless Project  
+*Wireless communication calculator — plan networks like a pro.*  
+[🔗 Repository](https://github.com/Marah31/wireless-project)
+
 
 ---
 
