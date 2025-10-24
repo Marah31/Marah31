@@ -1,34 +1,41 @@
 # 👋 Hey there, I'm Marah!
 
-💻 Computer Engineer • DevOps in making
-🎓 Freshly graduated, currently diving deep into **DevOps** 
+💻 **Computer Engineer • Aspiring DevOps Engineer**  
+  
 
 ---
 
-## 🚀 Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+##  Tech Stack
+
+### 🧰 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+
 ## 📂 Featured Projects
+
+### 🐳 Dockerized Multi-Service Voting App  
+*Containerized a distributed voting application using Docker and Docker Compose (Python, Node.js, .NET, Redis, PostgreSQL).*  
+[🔗 Repository](#) *(Private / Coming soon)*
+
+### ☁️ CI/CD Pipeline Project *(In Progress)*  
+*Automating build and deployment workflows using Jenkins integrated with Dockerized environments.*
 
 ### 🛍 Store Website  
 *E-commerce-style website inspired by Shein — minus the impulse buying guilt.*  
 [🔗 Repository](https://github.com/Marah31/PradaClothingWebsite)
-
-### 👾 Monsters Rolodex  
-*React app showing monster cards with search functionality. No monsters were harmed!*  
-[🔗 Repository](https://github.com/Marah31/MonstersRolodex)
-
-### 📡 Wireless Project  
-*Wireless communication calculator — plan networks like a pro.*  
-[🔗 Repository](https://github.com/Marah31/wireless-project)
-
 
 ---
 
@@ -38,10 +45,10 @@
 
 ---
 
-## 🎨 Fun Side of Me
-- Passionate about **graphic design** and aesthetics 🎨  
-- Enjoy creating projects that make people go *“Wow, that’s cool!”*  
-- My code usually works… until it doesn’t 😅  
+## A Little About Me
+- 💡 I enjoy building things that automate and simplify workflows  
+- 🎨 Still love **design** — I believe tech can look beautiful too  
+- ☕ Fueled by coffee and curiosity  
 ![Fun GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
@@ -51,4 +58,4 @@
 
 ---
 
-<sub>⚡ Fun fact: I write code and drink coffee simultaneously ☕💻</sub>
+<sub>⚡ Fun fact: I containerize my learning the same way I containerize my apps — one layer at a time 🐳</sub>
