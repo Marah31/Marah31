@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Marah!
 
-💻 Computer Engineer • Aspiring Full Stack Developer • Front-end Explorer  
-🎓 Freshly graduated, currently diving deep into **React** and building interactive web apps.  
+💻 Computer Engineer • DevOps in making
+🎓 Freshly graduated, currently diving deep into **DevOps** 
 
 ---
 
