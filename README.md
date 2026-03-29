@@ -1,11 +1,16 @@
-# 👋 Hey there, I'm Marah!
+# Hey there, I'm Marah!
 
-💻 **Computer Engineer • Aspiring DevOps Engineer**  
-  
+💻 **Computer Engineer • Full-Stack Developer (with DevOps Experience)**  
 
 ---
 
 ##  Tech Stack
+
+### 💻 Full-Stack Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🧰 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -13,6 +18,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -26,16 +34,36 @@
 
 ## 📂 Featured Projects
 
+### 🎓 University Courses Platform (Laravel)  
+Full-stack web application for managing university courses.  
+Implemented authentication, role-based access (students/admins), course enrollment, and CRUD operations.  
+Designed relational database structure and built dynamic views using Blade.
+[Repository](https://github.com/Marah31/diance-university-courses-website)
+
+---
+
+### 🌿 Green Company Website  
+Fully developed company website with multiple sections and modern animated UI.  
+Implemented consultation requests and appointment booking features.  
+Focused on responsive design, smooth user experience, and structured content delivery.
+
+---
+
+### 🛍 Clothing E-Commerce Platform (React)  
+Built a clothing store web app using React with dynamic product listings, filtering, and shopping cart functionality.  
+Integrated frontend with backend services and focused on reusable components and responsive UI.  
+[Repository](https://github.com/Marah31/PradaClothingWebsite)
+
+---
+
 ### 🐳 Dockerized Multi-Service Voting App  
-*Containerized a distributed voting application using Docker and Docker Compose (Python, Node.js, .NET, Redis, PostgreSQL).*  
-[🔗 Repository](#) *(Private / Coming soon)*
+Containerized a distributed application using Docker and Docker Compose (Python, Node.js, .NET, Redis, PostgreSQL).  
+Worked with multi-service architecture and environment orchestration.
 
-### ☁️ CI/CD Pipeline Project *(In Progress)*  
-*Automating build and deployment workflows using Jenkins integrated with Dockerized environments.*
+---
 
-### 🛍 Store Website  
-*E-commerce-style website inspired by Shein — minus the impulse buying guilt.*  
-[🔗 Repository](https://github.com/Marah31/PradaClothingWebsite)
+### ☁️ CI/CD Pipeline Project  
+Building automated pipelines using Jenkins integrated with Docker for continuous integration and deployment workflows.
 
 ---
 
@@ -46,16 +74,16 @@
 ---
 
 ## A Little About Me
-- 💡 I enjoy building things that automate and simplify workflows  
-- 🎨 Still love **design** — I believe tech can look beautiful too  
-- ☕ Fueled by coffee and curiosity  
-![Fun GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+- ♡ I enjoy building complete systems — from backend logic to user-facing interfaces  
+- ◇ I have a strong foundation in DevOps, which helps me think beyond just code  
+- ♧ I care about UI/UX and believe functionality should come with good design  
+- ♤ Fueled by curiosity and continuous learning  
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marahdarnaser/)
 
 ---
 
-<sub>⚡ Fun fact: I containerize my learning the same way I containerize my apps — one layer at a time 🐳</sub>
+<sub>⚡ I build systems end-to-end — and I enjoy understanding how everything works together.</sub>
