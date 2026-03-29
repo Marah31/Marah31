@@ -38,7 +38,7 @@
 Full-stack web application for managing university courses.  
 Implemented authentication, role-based access (students/admins), course enrollment, and CRUD operations.  
 Designed relational database structure and built dynamic views using Blade.
-[Repository](https://github.com/Marah31/diance-university-courses-website)
+[Repository](https://github.com/Marah31/daience-university-courses-website)
 
 ---
 
