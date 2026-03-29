@@ -68,8 +68,11 @@ Building automated pipelines using Jenkins integrated with Docker for continuous
 ---
 
 ## 📊 GitHub Stats
-![Marah's GitHub stats](https://github-readme-stats.vercel.app/api?username=marah31&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marah31&layout=compact&theme=tokyonight)
+
+![Marah's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marah31&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marah31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 
 ---
 
